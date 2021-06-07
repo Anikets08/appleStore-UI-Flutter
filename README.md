@@ -2,6 +2,7 @@
 
 Speed Code:
 Part I : https://youtu.be/XaAO1cHkm3o
+Part II : https://www.youtube.com/watch?v=C_9gCeNjrSk
 
 
 ![UI 1](https://firebasestorage.googleapis.com/v0/b/flaskcrudapp.appspot.com/o/Instagram%20post%20-%201.png?alt=media&token=0cb385fa-50f8-4d22-b395-e7a75e758976)
